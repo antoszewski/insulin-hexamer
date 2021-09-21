@@ -1,5 +1,5 @@
 # insulin-hexamer
-Scripts associated with "Kinetics of Phenol Escape from the Insulin R6 Hexamer" published in JPC B
+Scripts associated with "Kinetics of Phenol Escape from the Insulin R6 Hexamer"
 
 The Jupyter notebook hexamer_analysis.ipynb contains all code for running the DGA and interpreting the results. 
 The extq folder contains the code that performs the DGA/TPT fucntions themselves. 
